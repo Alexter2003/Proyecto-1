@@ -2,7 +2,7 @@ package proyecto1;
 
 public class IA {
 
-
+     //
     public void generadorDeAnimales(int ronda, Mascota[] mascotasEnemigas) {
         if (ronda == 1) {
             for (int i = 0; i <= 2; i++) {
